@@ -1,8 +1,8 @@
 # Sentiment Analysis using BiDirectional-LSTM
-- [Loss Curves](/#Loss-Curves)
-- [Accuracy Curves](/#Accuracy-Curves)
-- [Base LSTM Model Structure](/#Structures)
-- [BiDirectional LSTM Structure](/#Structures)
+- [Loss Curves](/README.md#Loss-Curves)
+- [Accuracy Curves](/README.md#Accuracy-Curves)
+- [Base LSTM Model Structure](/README.md#Structures)
+- [BiDirectional LSTM Structure](/README.md#Structures)
 
 ## Intuition & Introduction
 First lets train the model on chronological sequence - ```The food is good``` and then on ```good is food The``` While doing sentiment analysis. Sentiment Analysis is nothing just knowing if the sentence is more of positive or negative, Goal is to figure out the product or the restaurant is good or not.
